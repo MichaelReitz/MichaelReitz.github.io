@@ -12,4 +12,4 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 
 ## Research
 
-- Under constribution.
+- Under construction.
