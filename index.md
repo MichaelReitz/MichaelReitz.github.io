@@ -3,7 +3,7 @@ title: "Michael Reitz"
 layout: default
 ---
 
-Hi! My name is Michael, I am a theoretical physicist working on light-matter interactions in the group of [Joel Yuen-Zhou](https://yuenzhougroup.ucsd.edu/) at UC San Diego. You can learn more about my research below.
+Hi! My name is Michael, I am a theoretical physicist working on light-matter interactions in the group of [Joel Yuen-Zhou](https://yuenzhougroup.ucsd.edu/) at UC San Diego. You can learn more about my research below (under construction).
 
 ## Links
 
