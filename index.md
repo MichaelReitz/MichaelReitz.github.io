@@ -32,4 +32,4 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 ---
 
 ### Cooperative light scattering
-(Under construction)
+![Cooperative light scattering](teaserfigure.png)
