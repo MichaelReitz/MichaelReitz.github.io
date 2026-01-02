@@ -19,7 +19,7 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 <p align="center">
   <img src="polaritons.png"
        alt="Strong light matter coupling"
-       style="width:100%; max-width:360px; height:auto;">
+       style="width:100%; max-width:500px; height:auto;">
 </p>
 
 *Figure credit: Alexandra Genes, Genes design.*
@@ -31,7 +31,7 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 <p align="center">
   <img src="title_figure.png"
        alt="Ultrafast polariton spectroscopy"
-       style="width:100%; max-width:700px; height:auto;">
+       style="width:100%; max-width:500px; height:auto;">
 </p>
 
 *Figure credit: Arghadip Koner.*
@@ -43,7 +43,7 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 <p align="center">
   <img src="chiral.png"
        alt="Chiral cavities"
-       style="width:100%; max-width:360px; height:auto;">
+       style="width:100%; max-width:500px; height:auto;">
 </p>
 
 *Figure credit: Alexandra Genes, Genes design.*
@@ -55,5 +55,5 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 <p align="center">
   <img src="teaserfigure.png"
        alt="Cooperative light scattering"
-       style="width:100%; max-width:650px; height:auto;">
+       style="width:70%; max-width:500px; height:auto;">
 </p>
