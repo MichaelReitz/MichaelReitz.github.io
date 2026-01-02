@@ -13,27 +13,37 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 ## Research (under construction)
 
 ### Strong light matter coupling
-![Strong light matter coupling](polaritons.png)
+
+<p align="center">
+  <img src="polaritons.png" alt="Strong light matter coupling" width="100%">
+</p>
 
 *Figure credit: Alexandra Genes, Genes design.*
 
 ---
 
 ### Ultrafast polariton spectroscopy
-![Ultrafast spectroscopy](title_figure.png)
 
-*Figure credit: Arghadip Koner*
+<p align="center">
+  <img src="title_figure.png" alt="Ultrafast polariton spectroscopy" width="80%">
+</p>
+
+*Figure credit: Arghadip Koner.*
 
 ---
 
 ### Chiral cavities
-![Chiral cavities](chiral.png)
+
+<p align="center">
+  <img src="chiral.png" alt="Chiral cavities" width="100%">
+</p>
 
 *Figure credit: Alexandra Genes, Genes design.*
 
 ---
 
-
-
 ### Cooperative light scattering
-![Cooperative light scattering](teaserfigure.png)
+
+<p align="center">
+  <img src="teaserfigure.png" alt="Cooperative light scattering" width="60%">
+</p>
