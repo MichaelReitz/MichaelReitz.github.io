@@ -12,4 +12,24 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 
 ## Research
 
-- Under construction.
+### Strong light matter coupling
+![Strong light matter coupling](polaritons.png)
+
+*Figure credit: Alexandra Genes.*
+
+---
+
+### Chiral cavities
+![Chiral cavities](chiral.png)
+
+*Figure credit: Alexandra Genes.*
+
+---
+
+### Ultrafast spectroscopy
+![Ultrafast spectroscopy](title_figure.png)
+
+---
+
+### Cooperative light scattering
+(Under construction)
