@@ -10,25 +10,26 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 - [Google Scholar](https://scholar.google.com/citations?user=fWJToM8AAAAJ&hl=en)
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Reitz%2C+M)
 
-## Research
+## Research (under construction)
 
 ### Strong light matter coupling
 ![Strong light matter coupling](polaritons.png)
 
-*Figure credit: Alexandra Genes.*
+*Figure credit: Alexandra Genes, Genes design.*
 
 ---
 
 ### Chiral cavities
 ![Chiral cavities](chiral.png)
 
-*Figure credit: Alexandra Genes.*
+*Figure credit: Alexandra Genes, Genes design.*
 
 ---
 
 ### Ultrafast spectroscopy
 ![Ultrafast spectroscopy](title_figure.png)
 
+*Figure credit: Arghadip Koner, Genes design.*
 ---
 
 ### Cooperative light scattering
