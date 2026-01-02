@@ -50,7 +50,7 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 
 ---
 
-### Cooperative light scattering
+### Cooperative light scattering in atomic arrays
 
 <p align="center">
   <img src="teaserfigure.png"
