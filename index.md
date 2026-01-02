@@ -12,7 +12,6 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 
 ## Research (under construction)
 
----
 
 ### Strong light matter coupling
 
