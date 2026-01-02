@@ -19,6 +19,13 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 
 ---
 
+### Ultrafast polariton spectroscopy
+![Ultrafast spectroscopy](title_figure.png)
+
+*Figure credit: Arghadip Koner*
+
+---
+
 ### Chiral cavities
 ![Chiral cavities](chiral.png)
 
@@ -26,11 +33,7 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 
 ---
 
-### Ultrafast spectroscopy
-![Ultrafast spectroscopy](title_figure.png)
 
-*Figure credit: Arghadip Koner, Genes design.*
----
 
 ### Cooperative light scattering
 ![Cooperative light scattering](teaserfigure.png)
