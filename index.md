@@ -55,5 +55,5 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 <p align="center">
   <img src="teaserfigure.png"
        alt="Cooperative light scattering"
-       style="width:70%; max-width:230px; height:auto;">
+       style="width:50%; max-width:200px; height:auto;">
 </p>
