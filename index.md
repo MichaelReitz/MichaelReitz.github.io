@@ -13,7 +13,7 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 ## Research (under construction)
 
 
-### Strong light matter coupling
+### Strong light-matter coupling
 
 <p align="center">
   <img src="polaritons.png"
