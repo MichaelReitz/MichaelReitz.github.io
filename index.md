@@ -35,17 +35,7 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 
 *Figure credit: Arghadip Koner.*
 
----
 
-### Chiral cavities
-
-<p align="center">
-  <img src="chiral.png"
-       alt="Chiral cavities"
-       style="width:100%; max-width:360px; height:auto;">
-</p>
-
-*Figure credit: Alexandra Genes, Genes design.*
 
 ---
 
@@ -56,3 +46,15 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
        alt="Cooperative light scattering"
        style="width:50%; max-width:200px; height:auto;">
 </p>
+
+---
+
+### Chiral selectivity and sensing
+
+<p align="center">
+  <img src="chiral.png"
+       alt="Chiral cavities"
+       style="width:100%; max-width:360px; height:auto;">
+</p>
+
+*Figure credit: Alexandra Genes, Genes design.*
