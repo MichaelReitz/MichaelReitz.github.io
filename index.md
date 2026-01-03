@@ -49,7 +49,7 @@ Hi! My name is Michael, I am a theoretical physicist working on light-matter int
 
 ---
 
-### Chiral selectivity and sensing
+### Chiral sensing and resolution
 
 <p align="center">
   <img src="chiral.png"
