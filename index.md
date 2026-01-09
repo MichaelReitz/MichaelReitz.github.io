@@ -3,7 +3,7 @@ title: "Michael Reitz"
 layout: default
 ---
 
-Hi! My name is Michael, and I am a postdoctoral researcher and theoretical physicist working on light-matter interactions (both quantum and classical regimes) in the group of [Joel Yuen-Zhou](https://yuenzhougroup.ucsd.edu/) at UC San Diego. I my research, I enjoy staying close to experiments and actively collaborating with experimentalists. I occasionally also engage with problems in quantum chemistry and physical chemistry. 
+Hi! My name is Michael, and I am a postdoctoral researcher and theoretical physicist working on light-matter interactions (both quantum and classical regimes) in the group of [Joel Yuen-Zhou](https://yuenzhougroup.ucsd.edu/) at UC San Diego. I my research, I enjoy staying close to experiments and actively collaborating with experimentalists. I also like to work interdisciplinary and engaging with problems in chemistry or biology (such as, e.g., molecular chirality). 
 
 You can learn more about my research below (under construction).
 
