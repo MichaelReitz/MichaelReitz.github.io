@@ -14,7 +14,7 @@ Hi! My name is Michael, and I am a postdoctoral researcher and theoretical physi
 
 You can learn more about my research below (under construction).
 
-## Links
+## Publications
 
 Most of my publications can be found through the following links:
 
