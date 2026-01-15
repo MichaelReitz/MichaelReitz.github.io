@@ -63,11 +63,11 @@ You can learn more about my research below (under construction).
 
 ---
 
-### Chiral cavities
+### Chiral sensing and resolution
 
 <p align="center">
   <img src="chiral.png"
-       alt="Chiral cavities"
+       alt="Chiral sensing and resolution"
        style="width:100%; max-width:500px; height:auto;">
 </p>
 
