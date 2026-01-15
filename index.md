@@ -20,7 +20,7 @@ Most of my publications can be found through the following links:
 
 - [Google Scholar](https://scholar.google.com/citations?user=fWJToM8AAAAJ&hl=en)
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Reitz%2C+M)
-- [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/search-dashboard?text=%22Michael%20Reitz%22)
+- [ChemRxiv (some works)](https://chemrxiv.org/engage/chemrxiv/search-dashboard?text=%22Michael%20Reitz%22)
 
 
 ## Research (under construction)
