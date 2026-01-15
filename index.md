@@ -22,7 +22,6 @@ Most of my publications can be found through the following links:
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Reitz%2C+M)
 - [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/search-dashboard?text=%22Michael%20Reitz%22)
 
-Alternative (slightly more formal, if you prefer)
 
 ## Research (under construction)
 
