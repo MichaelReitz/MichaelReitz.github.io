@@ -15,16 +15,18 @@ You can learn more about my research below (under construction).
 ## Research (under construction)
 
 
-### Strong light-matter coupling
+### Strong light matter coupling
 
 <p align="center">
   <img src="polaritons.png"
        alt="Strong light matter coupling"
-       style="width:100%; max-width:360px; height:auto;">
+       style="width:100%; max-width:500px; height:auto;">
 </p>
 
 *Figure credit: Alexandra Genes, Genes design.*
 
+**Selected publication:**
+- [Nature Communications **15**, 48764 (2024)](https://www.nature.com/articles/s41467-024-48764-6)
 ---
 
 ### Ultrafast polariton spectroscopy
@@ -52,8 +54,9 @@ You can learn more about my research below (under construction).
        style="width:100%; max-width:500px; height:auto;">
 </p>
 
-**Selected publication:**
+**Selected publications:**
 - [PRX Quantum **3**, 010201 (2022)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010201)
+- [Optics Express **31**, 6003 (2023)](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-4-6003&html=true)
 
 
 ---
