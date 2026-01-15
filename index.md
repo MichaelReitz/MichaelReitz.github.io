@@ -32,31 +32,42 @@ You can learn more about my research below (under construction).
 <p align="center">
   <img src="title_figure.png"
        alt="Ultrafast polariton spectroscopy"
-       style="width:100%; max-width:360px; height:auto;">
+       style="width:100%; max-width:500px; height:auto;">
 </p>
 
 *Figure credit: Arghadip Koner.*
 
+**Selected publication:**
+- [Phys. Rev. Lett. **134**, 193803 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.193803)
+
 
 
 ---
 
-### Cooperative light scattering in atomic arrays
+### Cooperative light scattering
 
 <p align="center">
   <img src="teaserfigure.png"
        alt="Cooperative light scattering"
-       style="width:50%; max-width:200px; height:auto;">
+       style="width:100%; max-width:500px; height:auto;">
 </p>
+
+**Selected publication:**
+- [PRX Quantum **3**, 010201 (2022)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010201)
+
 
 ---
 
-### Chiral sensing and resolution
+### Chiral cavities
 
 <p align="center">
   <img src="chiral.png"
        alt="Chiral cavities"
-       style="width:100%; max-width:360px; height:auto;">
+       style="width:100%; max-width:500px; height:auto;">
 </p>
 
 *Figure credit: Alexandra Genes, Genes design.*
+
+**Selected publications:**
+- [Phys. Rev. Lett. **132**, 043602 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.043602)
+- [J. Am. Chem. Soc. **147**, 11502 (2025)](https://pubs.acs.org/doi/full/10.1021/jacs.5c11502)
