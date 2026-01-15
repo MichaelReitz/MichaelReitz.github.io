@@ -3,6 +3,11 @@ title: "Michael Reitz"
 layout: default
 ---
 
+<p style="float:left; margin-right:16px; margin-bottom:8px;">
+  <img src="michael.JPG"
+       alt="Michael Reitz"
+       style="width:130px; max-width:100%; border-radius:6px;">
+</p>
 
 
 Hi! My name is Michael, and I am a postdoctoral researcher and theoretical physicist working on light-matter interactions (both quantum and classical regimes) in the group of [Joel Yuen-Zhou](https://yuenzhougroup.ucsd.edu/) at UC San Diego. I my research, I enjoy staying close to experiments and actively collaborating with experimentalists. I also like to work interdisciplinary and engaging with problems in chemistry or biology (such as, e.g., molecular chirality or light harvesting). 
