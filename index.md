@@ -85,7 +85,7 @@ Most of my publications can be found through the following links:
        style="width:100%; max-width:500px; height:auto;">
 </p>
 
-*Figure credit: Alexandra Genes, Genes design.*
+*A helicity-preserving cavity formed by metasurface mirrors which can be used for the sensitive detection of chiral molecules. Figure credit: Alexandra Genes, Genes design.*
 
 **Selected recent publications:**
 - [Phys. Rev. Lett. **132**, 043602 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.043602)
