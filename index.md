@@ -16,9 +16,13 @@ You can learn more about my research below (under construction).
 
 ## Links
 
+Most of my publications can be found through the following links:
+
 - [Google Scholar](https://scholar.google.com/citations?user=fWJToM8AAAAJ&hl=en)
-- [arXiv (most publications available here)](https://arxiv.org/search/?searchtype=author&query=Reitz%2C+M)
-- [ChemRxiv (some publications also available here)](https://chemrxiv.org/engage/chemrxiv/search-dashboard?text=%22Michael%20Reitz%22)
+- [arXiv](https://arxiv.org/search/?searchtype=author&query=Reitz%2C+M)
+- [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/search-dashboard?text=%22Michael%20Reitz%22)
+
+Alternative (slightly more formal, if you prefer)
 
 ## Research (under construction)
 
