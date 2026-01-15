@@ -26,7 +26,7 @@ You can learn more about my research below (under construction).
 
 *Figure credit: Alexandra Genes, Genes design.*
 
-**Selected publications:**
+**Selected recent publications:**
 - [Nature Communications **15**, 48764 (2024)](https://www.nature.com/articles/s41467-024-48764-6)
 
 
@@ -42,7 +42,7 @@ You can learn more about my research below (under construction).
 
 *Figure credit: Arghadip Koner.*
 
-**Selected publications:**
+**Selected recent publications:**
 - [Phys. Rev. Lett. **134**, 193803 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.193803)
 - [arXiv:2504.15501](https://arxiv.org/abs/2504.15501)
 
@@ -58,7 +58,7 @@ You can learn more about my research below (under construction).
        style="width:100%; max-width:500px; height:auto;">
 </p>
 
-**Selected publications:**
+**Selected recent publications:**
 - [PRX Quantum **3**, 010201 (2022)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010201)
 - [Optics Express **31**, 6003 (2023)](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-4-6003&html=true)
 
@@ -75,6 +75,6 @@ You can learn more about my research below (under construction).
 
 *Figure credit: Alexandra Genes, Genes design.*
 
-**Selected publications:**
+**Selected recent publications:**
 - [Phys. Rev. Lett. **132**, 043602 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.043602)
 - [J. Am. Chem. Soc. **147**, 11502 (2025)](https://pubs.acs.org/doi/full/10.1021/jacs.5c11502)
