@@ -11,6 +11,7 @@ You can learn more about my research below (under construction).
 
 - [Google Scholar](https://scholar.google.com/citations?user=fWJToM8AAAAJ&hl=en)
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Reitz%2C+M)
+- [ChemRxiv (some publications also available here)](https://chemrxiv.org/engage/chemrxiv/search-dashboard?text=%22Michael%20Reitz%22)
 
 ## Research (under construction)
 
