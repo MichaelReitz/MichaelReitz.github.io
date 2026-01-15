@@ -34,7 +34,7 @@ Most of my publications can be found through the following links:
        style="width:100%; max-width:500px; height:auto;">
 </p>
 
-*Figure credit: Alexandra Genes, Genes design.*
+*A terahertz cavity is formed by a mirror (top) interfaced with a metasurface (bottom), achieving strong light-matter coupling with glucose. Figure credit: Alexandra Genes, Genes design.*
 
 **Selected recent publications:**
 - [Nature Communications **15**, 48764 (2024)](https://www.nature.com/articles/s41467-024-48764-6)
@@ -50,7 +50,7 @@ Most of my publications can be found through the following links:
        style="width:100%; max-width:500px; height:auto;">
 </p>
 
-*Figure credit: Arghadip Koner.*
+*Laser pulses are entering an optical cavity containing an ensemble of molecules. Figure credit: Arghadip Koner.*
 
 **Selected recent publications:**
 - [Phys. Rev. Lett. **134**, 193803 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.193803)
@@ -67,6 +67,8 @@ Most of my publications can be found through the following links:
        alt="Cooperative light scattering in atomic arrays"
        style="width:100%; max-width:500px; height:auto;">
 </p>
+
+*An array of atoms is illuminated by an incident light beam.*
 
 **Selected recent publications:**
 - [PRX Quantum **3**, 010201 (2022)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010201)
