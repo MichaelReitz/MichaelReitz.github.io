@@ -50,11 +50,11 @@ You can learn more about my research below (under construction).
 
 ---
 
-### Cooperative light scattering
+### Cooperative light scattering in atomic arrays
 
 <p align="center">
   <img src="teaserfigure.png"
-       alt="Cooperative light scattering"
+       alt="Cooperative light scattering in atomic arrays"
        style="width:100%; max-width:500px; height:auto;">
 </p>
 
