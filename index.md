@@ -25,7 +25,7 @@ You can learn more about my research below (under construction).
 
 *Figure credit: Alexandra Genes, Genes design.*
 
-**Selected publication:**
+**Selected publications:**
 - [Nature Communications **15**, 48764 (2024)](https://www.nature.com/articles/s41467-024-48764-6)
 
 
