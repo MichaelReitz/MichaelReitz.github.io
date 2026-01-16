@@ -54,7 +54,7 @@ Most of my publications can be found through the following links:
 
 **Selected recent publications:**
 - [Phys. Rev. Lett. **134**, 193803 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.193803)
-- [arXiv:2504.15501](https://arxiv.org/abs/2504.15501)
+- [arXiv:2504.15501 (2025)](https://arxiv.org/abs/2504.15501)
 
 
 
