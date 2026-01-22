@@ -10,7 +10,7 @@ layout: default
 </p>
 
 
-Hi! My name is Michael, and I am a postdoctoral researcher and theoretical physicist working on light-matter interactions (both quantum and classical regimes) in the group of [Joel Yuen-Zhou](https://yuenzhougroup.ucsd.edu/) at [UC San Diego](https://https://ucsd.edu/). Broadly speaking, my research aims to investigate and develop new theoretical tools and platforms for describing light–matter interactions in nanophotonic environments, while also maintaining close connections to potential applications. I my research, I enjoy staying close to experiments and actively collaborating with experimentalists. I also like to work interdisciplinary and engaging with problems in chemistry or biology (such as, e.g., molecular chirality, spin chemistry or photosynthetic light harvesting). 
+Hi! My name is Michael, and I am a postdoctoral researcher and theoretical physicist working on light-matter interactions (both quantum and classical regimes) in the group of [Joel Yuen-Zhou](https://yuenzhougroup.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/). Broadly speaking, my research aims to investigate and develop new theoretical tools and platforms for describing light–matter interactions in nanophotonic environments, while also maintaining close connections to potential applications. I my research, I enjoy staying close to experiments and actively collaborating with experimentalists. I also like to work interdisciplinary and engaging with problems in chemistry or biology (such as, e.g., molecular chirality, spin chemistry or photosynthetic light harvesting). 
 
 You can learn more about my research below (under construction).
 
