@@ -17,7 +17,7 @@ Broadly speaking, my research aims to investigate and develop new theoretical to
 
 You can learn more about my research below (under construction).
 
-Fell free to reach out at **mireitz [at] ucsd [dot] edu**.
+Fell free to reach out to me at **mireitz [at] ucsd [dot] edu**.
 
 ## Publications
 
