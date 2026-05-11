@@ -23,10 +23,20 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <nav style="margin-top: 12px;">
+          <ul style="list-style: none; padding: 0; margin: 0;">
+            <li style="margin-bottom: 6px;">
+              <a href="{{ "/" | absolute_url }}"{% if page.url == "/" %} style="font-weight: bold;"{% endif %}>Home</a>
+            </li>
+            <li style="margin-bottom: 6px;">
+              <a href="{{ "/research" | absolute_url }}"{% if page.url contains "research" %} style="font-weight: bold;"{% endif %}>Research</a>
+            </li>
+          </ul>
+        </nav>
+
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
-
 
         {% if site.show_downloads %}
         <ul class="downloads">
