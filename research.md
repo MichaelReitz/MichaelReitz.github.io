@@ -3,7 +3,9 @@ title: "Research – Michael Reitz"
 layout: default
 ---
 
-## Research (under construction)
+## Research 
+
+(under construction)
 
 ### Strong light-matter coupling
 
