@@ -30,6 +30,6 @@ Most of my publications can be found through the following links:
 
 ## Other scientific activities
 
-I have refereed for the following journals: Physical Review (PRX, PRX Quantum, PRL, PR Research, PRA, PRB,
+I have refereed articles for the following journals: Physical Review (PRX, PRX Quantum, PRL, PR Research, PRA, PRB,
 PR Applied), Nano Letters, Optica, Optics Letters, Nanophotonics, Communications
 Physics, Journal of Chemical Physics
