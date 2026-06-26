@@ -28,3 +28,8 @@ Most of my publications can be found through the following links:
 - [ChemRxiv (some works)](https://chemrxiv.org/engage/chemrxiv/search-dashboard?text=%22Michael%20Reitz%22)
 
 
+## Other scientific activities
+
+I have refereed for the following journals: Physical Review (PRX, PRX Quantum, PRL, PR Research, PRA, PRB,
+PR Applied), Nano Letters, Optica, Optics Letters, Nanophotonics, Communications
+Physics, Journal of Chemical Physics
