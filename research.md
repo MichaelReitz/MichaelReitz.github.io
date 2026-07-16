@@ -49,7 +49,7 @@ layout: default
 *An array of atoms is illuminated by an incident light beam.*
 
 **Selected publications:**
-- [PRX Quantum **3**, 010201 (2022)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010201)
+- [PRX Quantum **3**, 010201 (2022) (Tutorial article)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010201)
 - [Optics Express **31**, 6003 (2023)](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-4-6003&html=true)
 
 ---
