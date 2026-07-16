@@ -9,6 +9,7 @@ layout: default
 
 ### Strong light-matter coupling
 
+
 <p align="center">
   <img src="polaritons.png"
        alt="Strong light matter coupling"
@@ -23,6 +24,7 @@ layout: default
 ---
 
 ### Ultrafast polariton spectroscopy
+
 
 <p align="center">
   <img src="title_figure.png"
