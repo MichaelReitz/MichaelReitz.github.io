@@ -34,7 +34,7 @@ layout: default
 
 **Selected publications:**
 - [Phys. Rev. Lett. **134**, 193803 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.193803)
-- [Nano Lett. **26**, 19 (2026)](https://pubs.acs.org/doi/10.1021/acs.nanolett.6c00326)
+- [Nano Lett. **26**, 19, 6334–6340(2026)](https://pubs.acs.org/doi/10.1021/acs.nanolett.6c00326)
 
 ---
 
