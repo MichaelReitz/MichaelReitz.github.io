@@ -93,16 +93,16 @@ Here I keep a gallery of sunsets, most of them captured along the Southern Calif
       <img src="images/532f9338-fad8-46bb-9d3a-67615f524555.JPG" alt="California sunset">
       <img src="images/IMG_1780.jpg"    alt="California sunset">
       <img src="images/IMG_2344.jpg"    alt="California sunset">
-      <img src="images/IMG_4800.JPG"    alt="California sunset">
-      <img src="images/IMG_4840.JPG"    alt="California sunset">
-      <img src="images/IMG_4959.JPG"    alt="California sunset">
-      <img src="images/IMG_4996.JPG"    alt="California sunset">
-      <img src="images/IMG_6086.JPG"    alt="California sunset">
-      <img src="images/IMG_6251.JPG"    alt="California sunset">
+      <img src="images/IMG_4800.jpg"    alt="California sunset">
+      <img src="images/IMG_4840.jpg"    alt="California sunset">
+      <img src="images/IMG_4959.jpg"    alt="California sunset">
+      <img src="images/IMG_4996.jpg"    alt="California sunset">
+      <img src="images/IMG_6086.jpg"    alt="California sunset">
+      <img src="images/IMG_6251.jpg"    alt="California sunset">
       <img src="images/IMG_6294_2.jpg"  alt="California sunset">
-      <img src="images/IMG_6447.JPG"    alt="California sunset">
-      <img src="images/IMG_6448.JPG"    alt="California sunset">
-      <img src="images/IMG_7637.JPG"    alt="California sunset">
+      <img src="images/IMG_6447.jpg"    alt="California sunset">
+      <img src="images/IMG_6448.jpg"    alt="California sunset">
+      <img src="images/IMG_7637.jpg"    alt="California sunset">
     </div>
   </div>
   <button class="ss-btn prev" id="ssPrev">&#8592;</button>
