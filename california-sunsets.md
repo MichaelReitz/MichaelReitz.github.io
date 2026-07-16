@@ -91,6 +91,7 @@ Here I keep a gallery of sunsets, most of them captured along the Southern Calif
   <div class="ss-viewport">
     <div class="ss-track" id="ssTrack">
       <img src="images/532f9338-fad8-46bb-9d3a-67615f524555.JPG" alt="California sunset">
+      <img src="images/IMG_6448.jpg"    alt="California sunset">
       <img src="images/IMG_1780.jpg"    alt="California sunset">
       <img src="images/IMG_2344.jpg"    alt="California sunset">
       <img src="images/IMG_4800.jpg"    alt="California sunset">
@@ -99,9 +100,7 @@ Here I keep a gallery of sunsets, most of them captured along the Southern Calif
       <img src="images/IMG_4996.jpg"    alt="California sunset">
       <img src="images/IMG_6086.jpg"    alt="California sunset">
       <img src="images/IMG_6251.jpg"    alt="California sunset">
-      <img src="images/IMG_6294_2.jpg"  alt="California sunset">
       <img src="images/IMG_6447.jpg"    alt="California sunset">
-      <img src="images/IMG_6448.jpg"    alt="California sunset">
       <img src="images/IMG_7637.jpg"    alt="California sunset">
     </div>
   </div>
@@ -122,7 +121,7 @@ Here I keep a gallery of sunsets, most of them captured along the Southern Calif
   var n      = imgs.length;
   var idx    = 0;
 
-  ctr.textContent = '1 / ' + n;
+  ctr.textContent = '1 / ' + n; 
 
   for (var i = 0; i < n; i++) {
     var d = document.createElement('button');
