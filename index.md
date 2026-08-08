@@ -32,4 +32,4 @@ Most of my publications can be found through the following links:
 
 I serve or have served as a referee for the following journals: Physical Review (PRX, PRX Quantum, Phys. Rev. Lett., PR Research, PRA, PRB,
 PR Applied), Nano Letters, Optica, Optics Letters, Nanophotonics, Communications
-Physics, Journal of Chemical Physics
+Physics, Journal of Chemical Physics, Journal of Physical Chemistry Letters
