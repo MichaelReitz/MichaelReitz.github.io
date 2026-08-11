@@ -94,8 +94,6 @@ Here I keep a gallery of sunsets, most of them captured along the Southern Calif
       <img src="images/IMG_6448.jpg"    alt="California sunset">
       <img src="images/IMG_1780.jpg"    alt="California sunset">
       <img src="images/IMG_7841.jpeg"   alt="California sunset">
-      <img src="images/IMG_2344.jpg"    alt="California sunset">
-      <img src="images/IMG_4800.jpg"    alt="California sunset">
       <img src="images/IMG_4840.jpg"    alt="California sunset">
       <img src="images/IMG_4959.jpg"    alt="California sunset">
       <img src="images/IMG_4996.jpg"    alt="California sunset">
@@ -103,6 +101,8 @@ Here I keep a gallery of sunsets, most of them captured along the Southern Calif
       <img src="images/IMG_6251.jpg"    alt="California sunset">
       <img src="images/IMG_6447.jpg"    alt="California sunset">
       <img src="images/IMG_7637.jpg"    alt="California sunset">
+      <img src="images/IMG_2344.jpg"    alt="California sunset">
+      <img src="images/IMG_4800.jpg"    alt="California sunset">
     </div>
   </div>
   <button class="ss-btn prev" id="ssPrev">&#8592;</button>
