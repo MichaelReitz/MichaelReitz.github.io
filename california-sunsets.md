@@ -101,6 +101,7 @@ Here I keep a gallery of sunsets, most of them captured along the Southern Calif
       <img src="images/IMG_6086.jpg"    alt="California sunset">
       <img src="images/IMG_6251.jpg"    alt="California sunset">
       <img src="images/IMG_6447.jpg"    alt="California sunset">
+      <img src="images/IMG_7841.jpeg"   alt="California sunset">
       <img src="images/IMG_7637.jpg"    alt="California sunset">
     </div>
   </div>
