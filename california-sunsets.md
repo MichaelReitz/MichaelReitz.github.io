@@ -90,6 +90,7 @@ Here I keep a gallery of sunsets, most of them captured along the Southern Calif
 <div class="ss-wrap">
   <div class="ss-viewport">
     <div class="ss-track" id="ssTrack">
+      <img src="images/IMG_7913.JPG"    alt="California sunset">
       <img src="images/532f9338-fad8-46bb-9d3a-67615f524555.JPG" alt="California sunset">
       <img src="images/IMG_6448.jpg"    alt="California sunset">
       <img src="images/IMG_1780.jpg"    alt="California sunset">
@@ -108,7 +109,7 @@ Here I keep a gallery of sunsets, most of them captured along the Southern Calif
   <button class="ss-btn prev" id="ssPrev">&#8592;</button>
   <button class="ss-btn next" id="ssNext">&#8594;</button>
   <div class="ss-footer">
-    <span class="ss-counter" id="ssCtr">1 / 13</span>
+    <span class="ss-counter" id="ssCtr">1 / 14</span>
     <div class="ss-dots" id="ssDots"></div>
   </div>
 </div>
