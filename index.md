@@ -21,7 +21,7 @@ Feel free to reach out to me at **mireitz [at] ucsd [dot] edu**.
 
 ## Publications
 
-Most of my publications can be found through the following links:
+My publications can be found through the following links:
 
 - [Google Scholar](https://scholar.google.com/citations?user=fWJToM8AAAAJ&hl=en)
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Reitz%2C+M)
