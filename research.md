@@ -3,12 +3,12 @@ title: "Research – Michael Reitz"
 layout: default
 ---
 
-## Research 
+## Research
 
-(under construction)
 
 ### Strong light-matter coupling
 
+When light and matter interact sufficiently strongly, their excitations hybridize to form quasiparticles known as polaritons. These hybrid excitations can combine the low effective mass and rapid propagation of photons with the nonlinearities and interactions inherited from their matter counterparts. We investigate the fundamental properties (e.g., propagation) of these hybrid states and develop theoretical tools for their description. 
 
 <p align="center">
   <img src="polaritons.png"
@@ -25,6 +25,7 @@ layout: default
 
 ### Ultrafast nonlinear polariton spectroscopy
 
+Nonlinear optical spectroscopy provides a powerful means of accessing the microscopic dynamics of hybrid light-matter systems. We develop quantum and semiclassical theoretical frameworks to describe and understand the nonlinear optical response of polaritons. In particular, we investigate how ultrafast spectroscopic techniques can be used to isolate coherent effects in molecular polaritons. 
 
 <p align="center">
   <img src="title_figure.png"
@@ -32,7 +33,7 @@ layout: default
        style="width:100%; max-width:500px; height:auto;">
 </p>
 
-*Laser pulses are entering an optical cavity containing an ensemble of molecules. Figure credit: Arghadip Koner.*
+*Laser pulses enter an optical cavity containing an ensemble of molecules. Figure credit: Arghadip Koner.*
 
 **Selected publications:**
 - [Phys. Rev. Lett. **134**, 193803 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.193803)
@@ -41,6 +42,8 @@ layout: default
 ---
 
 ### Cooperative light scattering in atomic arrays
+
+The radiation emitted or scattered by ensembles of interacting emitters, for example when arranged in ordered arrays, can differ fundamentally from that of individual emitters. Photon-mediated interactions between emitters give rise to collective phenomena such as superradiance, subradiance, and directional light scattering. We explore how these effects can be harnessed to control the propagation of light in novel quantum metasurfaces.
 
 <p align="center">
   <img src="teaserfigure.png"
@@ -58,13 +61,15 @@ layout: default
 
 ### Chiral sensing and resolution
 
+Chirality is a fundamental property of many molecules and plays a central role in chemistry and biology. However, distinguishing between molecular enantiomers remains a challenging task. We investigate novel approaches to enantiomer discrimination by engineering either the external electromagnetic environment of chiral molecules, for example through helicity-preserving metasurfaces and optical cavities, or by exploiting internal molecular degrees of freedom, such as spin. 
+
 <p align="center">
   <img src="chiral.png"
        alt="Chiral sensing and resolution"
        style="width:100%; max-width:500px; height:auto;">
 </p>
 
-*A helicity-preserving cavity formed by double-layered metasurface mirrors which can be used for the sensitive detection of chiral molecules. Figure credit: Alexandra Genes, Genes design.*
+*A helicity-preserving cavity formed by double-layered metasurface mirrors, which can be used for the sensitive detection of chiral molecules. Figure credit: Alexandra Genes, Genes design.*
 
 **Selected publications:**
 - [Phys. Rev. Lett. **132**, 043602 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.043602)
