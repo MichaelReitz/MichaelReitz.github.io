@@ -21,6 +21,7 @@ When light and matter interact strongly, they hybridize to form quasiparticles k
 **Selected publications:**
 - [Nanophotonics **15**, e70249 (2026)](https://onlinelibrary.wiley.com/doi/full/10.1002/nap2.70249)
 - [Nature Communications **15**, 48764 (2024)](https://www.nature.com/articles/s41467-024-48764-6)
+  
 ---
 
 ### Ultrafast nonlinear polariton spectroscopy
