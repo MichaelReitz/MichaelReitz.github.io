@@ -8,7 +8,7 @@ layout: default
 
 ### Strong light-matter coupling
 
-When light and matter interact strongly, they hybridize to form quasiparticles known as polaritons. These hybrid excitations combine the low effective mass and rapid propagation of photons with the nonlinearities and interactions inherited from their matter counterparts. We investigate the fundamental properties (e.g., propagation) of these hybrid states, and explore how theie properties can be exploited toward the development of novel polaritonic devices.
+When light and matter interact strongly, they hybridize to form quasiparticles known as polaritons. These hybrid excitations combine the low effective mass and rapid propagation of photons with the nonlinearities and interactions inherited from their matter counterparts. We investigate the fundamental properties (e.g., propagation) of these hybrid states, and explore how their properties can be exploited toward the development of novel polaritonic devices.
 
 <p align="center">
   <img src="polaritons.png"
